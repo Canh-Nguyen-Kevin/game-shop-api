@@ -49,8 +49,8 @@
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
       ],
-      "price": 79000,
-      "discount": 70
+      "price": 15000,
+      "discount": 15
     },
     {
       "id": 3,
@@ -75,15 +75,16 @@
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
       ],
-      "price": 79000,
-      "discount": 70
+      "price": 30000,
+      "discount": 25
     },
+
     {
       "id": 4,
       "type": "entertain",
-      "name": "Grammarly",
+      "name": "Spotify",
       "img": [
-        "images/grammarly.png",
+        "images/Spotify 1 nam.png",
         "images/adobe.png",
         "images/grand.png",
         "images/prime.png"
@@ -101,64 +102,12 @@
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
       ],
-      "price": 79000,
-      "discount": 70
+      "price": 180000,
+      "discount": 30
     },
     {
       "id": 5,
       "type": "entertain",
-      "name": "netflix",
-      "img": [
-        "images/NETFLIX1406.png",
-        "images/adobe.png",
-        "images/grand.png",
-        "images/prime.png"
-      ],
-      "description": "Tài khoản Netflix Premium for 1 User (1 Tháng)",
-      "detail": [
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
-      ],
-      "information": [
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
-      ],
-      "price": 79000,
-      "discount": 70
-    },
-    {
-      "id": 6,
-      "type": "entertain",
-      "name": "Spotify",
-      "img": [
-        "images/Spotify 1 nam.png",
-        "images/adobe.png",
-        "images/grand.png",
-        "images/prime.png"
-      ],
-      "description": "Tài khoản Netflix Premium for 1 User (1 Tháng)",
-      "detail": [
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
-      ],
-      "information": [
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
-      ],
-      "price": 79000,
-      "discount": 70
-    },
-    {
-      "id": 7,
-      "type": "entertain",
       "name": "Nitro",
       "img": [
         "images/nitro.png",
@@ -179,11 +128,168 @@
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
       ],
-      "price": 79000,
+      "price": 72000,
+      "discount": 40
+    },
+
+    {
+      "id": 6,
+      "type": "topSelling",
+      "name": "netflix",
+      "img": [
+        "images/NETFLIX1406.png",
+        "images/adobe.png",
+        "images/grand.png",
+        "images/prime.png"
+      ],
+      "description": "Tài khoản Netflix Premium for 1 User (1 Tháng)",
+      "detail": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+      ],
+      "information": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+      ],
+      "price": 80000,
+      "discount": 30
+    },
+    {
+      "id": 7,
+      "type": "topSelling",
+      "name": "Spotify",
+      "img": [
+        "images/Spotify 1 nam.png",
+        "images/adobe.png",
+        "images/grand.png",
+        "images/prime.png"
+      ],
+      "description": "Tài khoản Netflix Premium for 1 User (1 Tháng)",
+      "detail": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+      ],
+      "information": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+      ],
+      "price": 125000,
       "discount": 70
     },
     {
       "id": 8,
+      "type": "topSelling",
+      "name": "Nitro",
+      "img": [
+        "images/nitro.png",
+        "images/adobe.png",
+        "images/grand.png",
+        "images/prime.png"
+      ],
+      "description": "Tài khoản Netflix Premium for 1 User (1 Tháng)",
+      "detail": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+      ],
+      "information": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+      ],
+      "price": 790000,
+      "discount": 30
+    },
+    {
+      "id": 9,
+      "type": "topSelling",
+      "name": "Grammarly",
+      "img": [
+        "images/grammarly.png",
+        "images/adobe.png",
+        "images/grand.png",
+        "images/prime.png"
+      ],
+      "description": "Tài khoản Netflix Premium for 1 User (1 Tháng)",
+      "detail": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+      ],
+      "information": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+      ],
+      "price": 25000,
+      "discount": 50
+    },
+    {
+      "id": 10,
+      "type": "codes",
+      "name": "Grammarly",
+      "img": [
+        "images/grammarly.png",
+        "images/adobe.png",
+        "images/grand.png",
+        "images/prime.png"
+      ],
+      "description": "Tài khoản Netflix Premium for 1 User (1 Tháng)",
+      "detail": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+      ],
+      "information": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+      ],
+      "price": 879000,
+      "discount": 60
+    },
+    {
+      "id": 11,
+      "type": "codes",
+      "name": "netflix",
+      "img": [
+        "images/NETFLIX1406.png",
+        "images/adobe.png",
+        "images/grand.png",
+        "images/prime.png"
+      ],
+      "description": "Tài khoản Netflix Premium for 1 User (1 Tháng)",
+      "detail": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+      ],
+      "information": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+      ],
+      "price": 739000,
+      "discount": 35
+    },
+    {
+      "id": 12,
       "type": "entertain",
       "name": "Grammarly",
       "img": [
@@ -205,117 +311,12 @@
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
       ],
-      "price": 79000,
-      "discount": 70
-    },
-
-    {
-      "id": 9,
-      "type": "topSelling",
-      "name": "netflix",
-      "img": [
-        "images/NETFLIX1406.png",
-        "images/adobe.png",
-        "images/grand.png",
-        "images/prime.png"
-      ],
-      "description": "Tài khoản Netflix Premium for 1 User (1 Tháng)",
-      "detail": [
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
-      ],
-      "information": [
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
-      ],
-      "price": 79000,
-      "discount": 70
-    },
-    {
-      "id": 10,
-      "type": "topSelling",
-      "name": "Spotify",
-      "img": [
-        "images/Spotify 1 nam.png",
-        "images/adobe.png",
-        "images/grand.png",
-        "images/prime.png"
-      ],
-      "description": "Tài khoản Netflix Premium for 1 User (1 Tháng)",
-      "detail": [
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
-      ],
-      "information": [
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
-      ],
-      "price": 79000,
-      "discount": 70
-    },
-    {
-      "id": 11,
-      "type": "topSelling",
-      "name": "Nitro",
-      "img": [
-        "images/nitro.png",
-        "images/adobe.png",
-        "images/grand.png",
-        "images/prime.png"
-      ],
-      "description": "Tài khoản Netflix Premium for 1 User (1 Tháng)",
-      "detail": [
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
-      ],
-      "information": [
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
-      ],
-      "price": 79000,
-      "discount": 70
-    },
-    {
-      "id": 12,
-      "type": "topSelling",
-      "name": "Grammarly",
-      "img": [
-        "images/grammarly.png",
-        "images/adobe.png",
-        "images/grand.png",
-        "images/prime.png"
-      ],
-      "description": "Tài khoản Netflix Premium for 1 User (1 Tháng)",
-      "detail": [
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
-      ],
-      "information": [
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
-      ],
-      "price": 79000,
-      "discount": 70
+      "price": 500000,
+      "discount": 50
     },
     {
       "id": 13,
-      "type": "topSelling",
+      "type": "entertain",
       "name": "netflix",
       "img": [
         "images/NETFLIX1406.png",
@@ -336,15 +337,15 @@
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
       ],
-      "price": 79000,
-      "discount": 70
+      "price": 720000,
+      "discount": 35
     },
     {
       "id": 14,
       "type": "topSelling",
-      "name": "Spotify",
+      "name": "netflix",
       "img": [
-        "images/Spotify 1 nam.png",
+        "images/NETFLIX1406.png",
         "images/adobe.png",
         "images/grand.png",
         "images/prime.png"
@@ -362,37 +363,12 @@
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
       ],
-      "price": 79000,
-      "discount": 70
+      "price": 460000,
+      "discount": 15
     },
+
     {
       "id": 15,
-      "type": "topSelling",
-      "name": "Nitro",
-      "img": [
-        "images/nitro.png",
-        "images/adobe.png",
-        "images/grand.png",
-        "images/prime.png"
-      ],
-      "description": "Tài khoản Netflix Premium for 1 User (1 Tháng)",
-      "detail": [
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
-      ],
-      "information": [
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
-      ],
-      "price": 79000,
-      "discount": 70
-    },
-    {
-      "id": 16,
       "type": "topSelling",
       "name": "Grammarly",
       "img": [
@@ -414,8 +390,34 @@
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
       ],
-      "price": 79000,
-      "discount": 70
+      "price": 120000,
+      "discount": 55
+    },
+    {
+      "id": 16,
+      "type": "entertain",
+      "name": "Grammarly",
+      "img": [
+        "images/grammarly.png",
+        "images/adobe.png",
+        "images/grand.png",
+        "images/prime.png"
+      ],
+      "description": "Tài khoản Netflix Premium for 1 User (1 Tháng)",
+      "detail": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+      ],
+      "information": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+      ],
+      "price": 130000,
+      "discount": 80
     },
     {
       "id": 17,
@@ -440,8 +442,8 @@
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
       ],
-      "price": 79000,
-      "discount": 70
+      "price": 780000,
+      "discount": 30
     },
     {
       "id": 18,
@@ -466,8 +468,8 @@
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
       ],
-      "price": 79000,
-      "discount": 70
+      "price": 340000,
+      "discount": 35
     },
     {
       "id": 19,
@@ -492,8 +494,8 @@
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
       ],
-      "price": 79000,
-      "discount": 70
+      "price": 120000,
+      "discount": 20
     },
     {
       "id": 20,
@@ -518,8 +520,8 @@
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
       ],
-      "price": 79000,
-      "discount": 70
+      "price": 860000,
+      "discount": 50
     },
     {
       "id": 21,
@@ -544,12 +546,65 @@
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
       ],
-      "price": 79000,
-      "discount": 70
+      "price": 360000,
+      "discount": 40
     },
+
     {
       "id": 22,
       "type": "games",
+      "name": "Grammarly",
+      "img": [
+        "images/grammarly.png",
+        "images/adobe.png",
+        "images/grand.png",
+        "images/prime.png"
+      ],
+      "description": "Tài khoản Netflix Premium for 1 User (1 Tháng)",
+      "detail": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+      ],
+      "information": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+      ],
+      "price": 99000,
+      "discount": 50
+    },
+    {
+      "id": 23,
+      "type": "apps",
+      "name": "netflix",
+      "img": [
+        "images/NETFLIX1406.png",
+        "images/adobe.png",
+        "images/grand.png",
+        "images/prime.png"
+      ],
+      "description": "Tài khoản Netflix Premium for 1 User (1 Tháng)",
+      "detail": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+      ],
+      "information": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+      ],
+      "price": 790000,
+      "discount": 30
+    },
+    {
+      "id": 24,
+      "type": "topSelling",
       "name": "Spotify",
       "img": [
         "images/Spotify 1 nam.png",
@@ -574,8 +629,8 @@
       "discount": 70
     },
     {
-      "id": 23,
-      "type": "games",
+      "id": 25,
+      "type": "topSelling",
       "name": "Nitro",
       "img": [
         "images/nitro.png",
@@ -596,60 +651,8 @@
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
       ],
-      "price": 79000,
-      "discount": 70
-    },
-    {
-      "id": 24,
-      "type": "games",
-      "name": "Grammarly",
-      "img": [
-        "images/grammarly.png",
-        "images/adobe.png",
-        "images/grand.png",
-        "images/prime.png"
-      ],
-      "description": "Tài khoản Netflix Premium for 1 User (1 Tháng)",
-      "detail": [
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
-      ],
-      "information": [
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
-      ],
-      "price": 79000,
-      "discount": 70
-    },
-    {
-      "id": 25,
-      "type": "apps",
-      "name": "netflix",
-      "img": [
-        "images/NETFLIX1406.png",
-        "images/adobe.png",
-        "images/grand.png",
-        "images/prime.png"
-      ],
-      "description": "Tài khoản Netflix Premium for 1 User (1 Tháng)",
-      "detail": [
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
-      ],
-      "information": [
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
-      ],
-      "price": 79000,
-      "discount": 70
+      "price": 200000,
+      "discount": 40
     },
     {
       "id": 26,
@@ -674,63 +677,12 @@
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
       ],
-      "price": 79000,
-      "discount": 70
+      "price": 500000,
+      "discount": 20
     },
+
     {
       "id": 27,
-      "type": "apps",
-      "name": "Nitro",
-      "img": [
-        "images/nitro.png",
-        "images/adobe.png",
-        "images/grand.png",
-        "images/prime.png"
-      ],
-      "description": "Tài khoản Netflix Premium for 1 User (1 Tháng)",
-      "detail": [
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
-      ],
-      "information": [
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
-      ],
-      "price": 79000,
-      "discount": 70
-    },
-    {
-      "id": 28,
-      "type": "apps",
-      "name": "Grammarly",
-      "img": [
-        "images/grammarly.png",
-        "images/adobe.png",
-        "images/grand.png",
-        "images/prime.png"
-      ],
-      "description": "Tài khoản Netflix Premium for 1 User (1 Tháng)",
-      "detail": [
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
-      ],
-      "information": [
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
-      ],
-      "price": 79000,
-      "discount": 70
-    },
-    {
-      "id": 29,
       "type": "apps",
       "name": "netflix",
       "img": [
@@ -752,11 +704,11 @@
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
       ],
-      "price": 79000,
-      "discount": 70
+      "price": 230000,
+      "discount": 55
     },
     {
-      "id": 30,
+      "id": 28,
       "type": "apps",
       "name": "Spotify",
       "img": [
@@ -778,8 +730,60 @@
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
       ],
+      "price": 460000,
+      "discount": 15
+    },
+    {
+      "id": 29,
+      "type": "games",
+      "name": "Spotify",
+      "img": [
+        "images/Spotify 1 nam.png",
+        "images/adobe.png",
+        "images/grand.png",
+        "images/prime.png"
+      ],
+      "description": "Tài khoản Netflix Premium for 1 User (1 Tháng)",
+      "detail": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+      ],
+      "information": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+      ],
       "price": 79000,
-      "discount": 70
+      "discount": 10
+    },
+    {
+      "id": 30,
+      "type": "games",
+      "name": "Nitro",
+      "img": [
+        "images/nitro.png",
+        "images/adobe.png",
+        "images/grand.png",
+        "images/prime.png"
+      ],
+      "description": "Tài khoản Netflix Premium for 1 User (1 Tháng)",
+      "detail": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+      ],
+      "information": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+      ],
+      "price": 46000,
+      "discount": 30
     },
     {
       "id": 31,
@@ -804,8 +808,8 @@
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
       ],
-      "price": 79000,
-      "discount": 70
+      "price": 299000,
+      "discount": 30
     },
     {
       "id": 32,
@@ -830,8 +834,8 @@
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
       ],
-      "price": 79000,
-      "discount": 70
+      "price": 999000,
+      "discount": 50
     },
     {
       "id": 33,
@@ -856,11 +860,63 @@
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
       ],
-      "price": 79000,
-      "discount": 70
+      "price": 179000,
+      "discount": 30
     },
     {
       "id": 34,
+      "type": "apps",
+      "name": "Nitro",
+      "img": [
+        "images/nitro.png",
+        "images/adobe.png",
+        "images/grand.png",
+        "images/prime.png"
+      ],
+      "description": "Tài khoản Netflix Premium for 1 User (1 Tháng)",
+      "detail": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+      ],
+      "information": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+      ],
+      "price": 279000,
+      "discount": 15
+    },
+    {
+      "id": 35,
+      "type": "apps",
+      "name": "Grammarly",
+      "img": [
+        "images/grammarly.png",
+        "images/adobe.png",
+        "images/grand.png",
+        "images/prime.png"
+      ],
+      "description": "Tài khoản Netflix Premium for 1 User (1 Tháng)",
+      "detail": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+      ],
+      "information": [
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
+        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
+      ],
+      "price": 729000,
+      "discount": 40
+    },
+    {
+      "id": 36,
       "type": "codes",
       "name": "Spotify",
       "img": [
@@ -882,12 +938,12 @@
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
       ],
-      "price": 79000,
-      "discount": 70
+      "price": 99000,
+      "discount": 20
     },
     {
-      "id": 35,
-      "type": "codes",
+      "id": 37,
+      "type": "data",
       "name": "Nitro",
       "img": [
         "images/nitro.png",
@@ -909,63 +965,12 @@
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
       ],
       "price": 79000,
-      "discount": 70
+      "discount": 10
     },
-    {
-      "id": 36,
-      "type": "codes",
-      "name": "Grammarly",
-      "img": [
-        "images/grammarly.png",
-        "images/adobe.png",
-        "images/grand.png",
-        "images/prime.png"
-      ],
-      "description": "Tài khoản Netflix Premium for 1 User (1 Tháng)",
-      "detail": [
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
-      ],
-      "information": [
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
-      ],
-      "price": 79000,
-      "discount": 70
-    },
-    {
-      "id": 37,
-      "type": "codes",
-      "name": "netflix",
-      "img": [
-        "images/NETFLIX1406.png",
-        "images/adobe.png",
-        "images/grand.png",
-        "images/prime.png"
-      ],
-      "description": "Tài khoản Netflix Premium for 1 User (1 Tháng)",
-      "detail": [
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
-      ],
-      "information": [
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-        "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
-      ],
-      "price": 79000,
-      "discount": 70
-    },
+
     {
       "id": 38,
-      "type": "codes",
+      "type": "data",
       "name": "Spotify",
       "img": [
         "images/Spotify 1 nam.png",
@@ -986,8 +991,8 @@
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
       ],
-      "price": 79000,
-      "discount": 70
+      "price": 799000,
+      "discount": 15
     },
     {
       "id": 39,
@@ -1038,8 +1043,8 @@
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
       ],
-      "price": 79000,
-      "discount": 70
+      "price": 222000,
+      "discount": 20
     },
     {
       "id": 41,
@@ -1064,8 +1069,8 @@
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
       ],
-      "price": 79000,
-      "discount": 70
+      "price": 879000,
+      "discount": 60
     },
     {
       "id": 42,
@@ -1090,8 +1095,8 @@
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
       ],
-      "price": 79000,
-      "discount": 70
+      "price": 139000,
+      "discount": 40
     },
     {
       "id": 43,
@@ -1116,12 +1121,12 @@
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
       ],
-      "price": 79000,
-      "discount": 70
+      "price": 299000,
+      "discount": 15
     },
     {
       "id": 44,
-      "type": "data",
+      "type": "codes",
       "name": "Grammarly",
       "img": [
         "images/grammarly.png",
@@ -1142,12 +1147,12 @@
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
       ],
-      "price": 79000,
-      "discount": 70
+      "price": 179000,
+      "discount": 10
     },
     {
       "id": 45,
-      "type": "data",
+      "type": "codes",
       "name": "netflix",
       "img": [
         "images/NETFLIX1406.png",
@@ -1168,8 +1173,8 @@
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
       ],
-      "price": 79000,
-      "discount": 70
+      "price": 500000,
+      "discount": 25
     },
     {
       "id": 46,
@@ -1220,8 +1225,8 @@
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
       ],
-      "price": 79000,
-      "discount": 70
+      "price": 499000,
+      "discount": 30
     },
     {
       "id": 48,
@@ -1246,8 +1251,8 @@
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
         "lorem ipsum dolor sit amet, consectetur adipiscing lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
       ],
-      "price": 79000,
-      "discount": 70
+      "price": 99000,
+      "discount": 30
     }
   ]
 }
